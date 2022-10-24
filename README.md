@@ -46,7 +46,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ocaksen">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	
-      </div>
+   
 
 </p>
 
