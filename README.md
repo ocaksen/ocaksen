@@ -27,7 +27,7 @@
   <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
- <h2 align="left" font-weight="bold">Languages and Tools:</h2>  
+ <h2 align="center" font-weight="bold">Languages and Tools:</h2>  
 
 <table>
 
